@@ -1,0 +1,10 @@
+.gitignore
+.well-known
+SESSION_STORE
+CONSTANTS.php
+error_logs.log
+site_logs.log
+applicant-images
+ZeroSQL_LOG.txt
+deploy-log.txt
+deploy_log_filename.log
